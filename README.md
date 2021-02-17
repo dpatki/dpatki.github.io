@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## UPDATED Page Coming Soon!
 
-You can use the [editor on GitHub](https://github.com/dpatki/dpatki.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a temporary page while I get things set up in React! Come back soon for more info and cool stuff!
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Do comeback soon!
 
 ```markdown
 Syntax highlighted code block
@@ -15,8 +13,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- TEMP
+- PAGE
 
 1. Numbered
 2. List
