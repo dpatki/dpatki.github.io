@@ -1,7 +1,7 @@
 import git from './github.png';
 import linkedin from './linkedin.png';
-import mailto from './mailto.png';
-import resume from './resume.png';
+import mailto from './email2.png';
+import resume from './document-icon.png';
 import './App.css';
 import hireme from './resume.pdf';
 import { BrowserRouter, Route, Link } from 'react-router-dom'; 
@@ -20,8 +20,8 @@ function App() {
         <div>
           <a href="https://github.com/dpatki"><img src={git} alt= "Github" style={{maxWidth:35} }></img> </a>
           <a href="https://linkedin.com/dhananjay-patki"><img src={linkedin} alt= "Linkedin" style={{maxWidth:110} }></img> </a>
-          <a href="mailto:dpatki@uwaterloo.ca"><img src={mailto} alt= "Email"style={{maxWidth:40} }></img> </a>
-          <a href={hireme}><img src={resume} alt= "Resume"style={{maxWidth:65} }></img> </a>
+          <a href="mailto:dpatki@uwaterloo.ca"><img src={mailto} alt= "Email"style={{maxWidth:35} }></img> </a>
+          <a href={hireme}><img src={resume} alt= "Resume"style={{maxWidth:35} }></img> </a>
         </div>
       </header>
       <div className="navigation">
@@ -43,9 +43,9 @@ function App() {
           <p>      •      </p>
           <a href="https://linkedin.com/dhananjay-patki"><img src={linkedin} alt= "Linkedin" style={{maxWidth:110} }></img> </a>
           <p>      •      </p>
-          <a href="mailto:dpatki@uwaterloo.ca"><img src={mailto} alt= "Email"style={{maxWidth:40} }></img> </a>
+          <a href="mailto:dpatki@uwaterloo.ca"><img src={mailto} alt= "Email"style={{maxWidth:35} }></img> </a>
           <p>      •      </p>
-          <a href={hireme}><img src={resume} alt= "Resume"style={{maxWidth:65} }></img> </a>
+          <a href={hireme}><img src={resume} alt= "Resume"style={{maxWidth:35} }></img> </a>
         </div>
       <div className="links-Wrapper">
             <span className="links"><Link to="/" className="item">Projects</Link></span>
