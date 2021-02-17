@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.126bf292.chunk.css",
-    "main.js": "/static/js/main.1f4d7bb1.chunk.js",
-    "main.js.map": "/static/js/main.1f4d7bb1.chunk.js.map",
+    "main.css": "/static/css/main.bee5f353.chunk.css",
+    "main.js": "/static/js/main.d4ab565e.chunk.js",
+    "main.js.map": "/static/js/main.d4ab565e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fba45517.js",
     "runtime-main.js.map": "/static/js/runtime-main.fba45517.js.map",
     "static/js/2.9f4517d2.chunk.js": "/static/js/2.9f4517d2.chunk.js",
@@ -10,16 +10,18 @@
     "static/js/3.20583b29.chunk.js": "/static/js/3.20583b29.chunk.js",
     "static/js/3.20583b29.chunk.js.map": "/static/js/3.20583b29.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.126bf292.chunk.css.map": "/static/css/main.126bf292.chunk.css.map",
+    "static/css/main.bee5f353.chunk.css.map": "/static/css/main.bee5f353.chunk.css.map",
     "static/js/2.9f4517d2.chunk.js.LICENSE.txt": "/static/js/2.9f4517d2.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Tadpole.6c8f1840.jpg",
+    "static/media/document-icon.ec179bc0.png": "/static/media/document-icon.ec179bc0.png",
+    "static/media/email2.ba9f4d42.png": "/static/media/email2.ba9f4d42.png",
     "static/media/me.9667f485.jpg": "/static/media/me.9667f485.jpg",
+    "static/media/App.css": "/static/media/mountain.fe4406cc.jpg",
     "static/media/resume.50a1a375.pdf": "/static/media/resume.50a1a375.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.fba45517.js",
     "static/js/2.9f4517d2.chunk.js",
-    "static/css/main.126bf292.chunk.css",
-    "static/js/main.1f4d7bb1.chunk.js"
+    "static/css/main.bee5f353.chunk.css",
+    "static/js/main.d4ab565e.chunk.js"
   ]
 }
