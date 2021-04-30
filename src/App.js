@@ -27,7 +27,7 @@ function App() {
       <div className="navigation">
         <div className="links-Wrapper">
             <span className="links"><Link to="/" className="item">Projects</Link></span>
-            <span className="links"><Link to="/articles" className="item" >Articles</Link></span>
+            <span className="links"><Link to="/articles" className="item" >Blog</Link></span>
             <span className="links"><Link to="/about" className="item" >About</Link></span>
         </div>
       </div>
@@ -49,7 +49,7 @@ function App() {
         </div>
       <div className="links-Wrapper">
             <span className="links"><Link to="/" className="item">Projects</Link></span>
-            <span className="links"><Link to="/articles" className="item" >Articles</Link></span>
+            <span className="links"><Link to="/articles" className="item" >Blog</Link></span>
             <span className="links"><Link to="/about" className="item" >About</Link></span>
       </div>
       <div className="bottom-text">

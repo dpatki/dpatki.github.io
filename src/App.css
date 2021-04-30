@@ -61,6 +61,18 @@
   color: white;
 }
 
+.text-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blag-text {
+  max-width: 80%;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+
 
 .projects-Wrapper {
   display: flex;

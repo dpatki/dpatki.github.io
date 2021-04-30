@@ -28,7 +28,7 @@ function Projects(props) {
             link = "https://github.com/dpatki/smart-garden"
             image = {garden}
             title= "Smart Garden"
-            category = "Automated Plant Care"
+            category = "Automatic Plant Care"
             />
             </span>
             <span  className="links">
