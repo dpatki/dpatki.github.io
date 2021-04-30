@@ -2,6 +2,12 @@ import React from "react"
 import Thumbnail from './Thumbnail.js'; // Import the Thumbnail component
 import './App.css';
 import temp from "./me.jpg";
+import mandelbrot from "./newmandelbrot.png";
+import connections from "./connections.png";
+import garden from "./garden.png";
+import mate from "./mate.png";
+import leet from "./leet.png";
+import rlogo from "./react.png";
 function Projects(props) {
     return (
         <div>
@@ -12,7 +18,7 @@ function Projects(props) {
             <span className="links">
             <Thumbnail
             link = "https://github.com/dpatki/COVID-Connections"
-            image = {temp}
+            image = {connections}
             title= "Covid Connections"
             category = "Track Your Risk"
             />
@@ -20,7 +26,7 @@ function Projects(props) {
             <span  className="links">
             <Thumbnail
             link = "https://github.com/dpatki/smart-garden"
-            image = {temp}
+            image = {garden}
             title= "Smart Garden"
             category = "Automated Plant Care"
             />
@@ -28,7 +34,7 @@ function Projects(props) {
             <span  className="links">
             <Thumbnail
             link = "https://github.com/dpatki/Cli-Mate"
-            image = {temp}
+            image = {mate}
             title= "Cli-Mate"
             category = "Sustainability Buddy"
             />
@@ -36,18 +42,26 @@ function Projects(props) {
             <span  className="links">
             <Thumbnail
             link = "https://github.com/dpatki/random-coding-stuff"
-            image = {temp}
-            title= "Sudoku Solvers"
+            image = {mandelbrot}
+            title= "Small Projects"
             category = "C, Rust, & Python"
             />
             </span>
             <span  className="links">
             <Thumbnail
             link = "https://github.com/dpatki/dpatki.github.io"
-            image = {temp}
+            image = {rlogo}
             title= "This Website"
             category = "View Github Repo"
             />
+            </span>
+            <span className="links">
+                <Thumbnail
+                    link = "https://github.com/dpatki/leetcode-problems"
+                    image = {leet}
+                    title = "LeetCode"
+                    category = "Submissions to Problems"
+                />
             </span>
         </div>
         </div>

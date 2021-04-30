@@ -14,7 +14,7 @@
 }*/
 
 .App-header {
-  background-image: url("./sun.jpg");
+  background-image: url("./output6.png");
   background-position: center;
   background-color: #282c34;
   min-height: 75vh;
@@ -31,7 +31,7 @@
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: #271414;
+  background-color: #000000;
   font-size: 15px;
 }
 

@@ -8,7 +8,7 @@ function About(props) {
         <div>
             <h1>Hi! I'm a 1B SE student at UWaterloo!</h1>
             <Thumbnail
-            link = "https://github.com/dpatki/COVID-Connections"
+            link = "https://github.com/dpatki"
             image = {temp}
             title= ""
             category = ""
