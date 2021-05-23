@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9994a341.chunk.css",
-    "main.js": "/static/js/main.fc012321.chunk.js",
-    "main.js.map": "/static/js/main.fc012321.chunk.js.map",
+    "main.js": "/static/js/main.3aba5076.chunk.js",
+    "main.js.map": "/static/js/main.3aba5076.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fba45517.js",
     "runtime-main.js.map": "/static/js/runtime-main.fba45517.js.map",
     "static/js/2.9f4517d2.chunk.js": "/static/js/2.9f4517d2.chunk.js",
@@ -18,13 +18,12 @@
     "static/media/me.9667f485.jpg": "/static/media/me.9667f485.jpg",
     "static/media/newmandelbrot.bef20c55.png": "/static/media/newmandelbrot.bef20c55.png",
     "static/media/App.css": "/static/media/output6.18e877c1.png",
-    "static/media/react.fc850075.png": "/static/media/react.fc850075.png",
-    "static/media/resume.50a1a375.pdf": "/static/media/resume.50a1a375.pdf"
+    "static/media/react.fc850075.png": "/static/media/react.fc850075.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fba45517.js",
     "static/js/2.9f4517d2.chunk.js",
     "static/css/main.9994a341.chunk.css",
-    "static/js/main.fc012321.chunk.js"
+    "static/js/main.3aba5076.chunk.js"
   ]
 }
