@@ -1,6 +1,6 @@
 import React from "react"
 import {Link} from 'react-router-dom'
-import temp from "./me.jpg";
+import temp from "./assets/me.jpg";
 import Thumbnail from './Thumbnail.js'; // Import the Thumbnail component
 
 function About(props) {

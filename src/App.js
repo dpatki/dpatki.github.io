@@ -1,7 +1,7 @@
-import git from './github.png';
-import linkedin from './linkedin.png';
-import mailto from './email2.png';
-import resume from './document-icon.png';
+import git from './assets/github.png';
+import linkedin from './assets/linkedin.png';
+import mailto from './assets/email2.png';
+import resume from './assets/document-icon.png';
 import './App.css';
 import { BrowserRouter, Route, Link } from 'react-router-dom'; 
 import Projects from './Projects.js'; 

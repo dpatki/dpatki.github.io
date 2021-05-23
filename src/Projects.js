@@ -1,13 +1,12 @@
 import React from "react"
 import Thumbnail from './Thumbnail.js'; // Import the Thumbnail component
 import './App.css';
-import temp from "./me.jpg";
-import mandelbrot from "./newmandelbrot.png";
-import connections from "./connections.png";
-import garden from "./garden.png";
-import mate from "./mate.png";
-import leet from "./leet.png";
-import rlogo from "./react.png";
+import mandelbrot from "./assets/newmandelbrot.png";
+import connections from "./assets/connections.png";
+import garden from "./assets/garden.png";
+import mate from "./assets/mate.png";
+import leet from "./assets/leet.png";
+import rlogo from "./assets/react.png";
 function Projects(props) {
     return (
         <div>
